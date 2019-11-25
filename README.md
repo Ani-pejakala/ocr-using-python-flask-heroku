@@ -1,4 +1,7 @@
 # ocr-using-python-flask-heroku
+Optical Character Recognition wep app using pytesseract and flask.
+
+[pytesseract](https://pypi.org/project/pytesseract/)
 ## To run
 
 1. Clone this Project
