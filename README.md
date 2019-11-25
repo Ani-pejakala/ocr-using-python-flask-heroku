@@ -5,7 +5,7 @@ Optical Character Recognition wep app using pytesseract and flask.
 ## To run
 
 1. Clone this Project
-2. Run this command in project directory python: -m venv env
+2. Run this command in project directory: python -m venv env
 3. In linux source env/bin/activate or In windows .\env\Scripts\activate
 4. Run this:pip install -r requirements.txt
 5. Run this command:python app.py
